@@ -9,3 +9,6 @@ Deep Learning Project to split any songs to vocals, drums, bass and other instru
 * https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e
 * https://ezstems.com/
 * https://github.com/deezer/spleeter
+
+### Other Links
+* https://www.bogotobogo.com/VideoStreaming/YouTube/youtube-dl-embedding.php
