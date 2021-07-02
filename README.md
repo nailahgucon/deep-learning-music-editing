@@ -10,5 +10,13 @@ Deep Learning Project to split any songs to vocals, drums, bass and other instru
 * https://ezstems.com/
 * https://github.com/deezer/spleeter
 
-### Other Links
+### Other Reference Links
 * https://www.bogotobogo.com/VideoStreaming/YouTube/youtube-dl-embedding.php
+* https://arxiv.org/abs/1505.04597
+* https://github.com/zhixuhao/unet
+* https://sigsep.github.io/datasets/musdb.html#musdb18-compressed-stems
+
+### Application Used Download Link
+* https://www.audacityteam.org/
+
+#### Result for AI generated song: Blue Jeans & Bloody Tears
